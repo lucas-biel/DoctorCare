@@ -7,7 +7,7 @@
 </ul>
 
 <h2>Seções</h2>
-<p>A pagina possui as seguintes seções:</p>
+<p>A página possui as seguintes seções:</p>
 <ul type="square">
   <li>navigation;
   <li>home;
