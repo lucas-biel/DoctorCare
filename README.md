@@ -1,6 +1,6 @@
 <h1>Este projeto foi desenvolvido durante o Workshop NLW Return da Rocketseat.</h1>
 <p>As linguagens utilizadas foram:</p>
-<ul>
+<ul type="square">
   <li>HTML;
   <li>CSS;
   <li>JavaScript.
